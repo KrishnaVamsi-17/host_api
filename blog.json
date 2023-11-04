@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome to Dojoblog",
+      "body": "Hi Guys!!. I am S Krishna Vamsi ,  the owner of this site. You can add or delete the bolgs from this site. May this site be useful to you :) . ",
+      "author": "S Krishna Vamsi",
+      "id": 1
+    }
+  ]
+}
